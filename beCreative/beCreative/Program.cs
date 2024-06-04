@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            #region question1
+            #region example1
             int[] nums = new int[100];
             int random;
             int good = 0;
