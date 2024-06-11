@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            #region example2
+
+            Console.ReadLine();
+
+            #endregion
         }
     }
 }
